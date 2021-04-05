@@ -1,6 +1,6 @@
 # Rails API for E-Commerce
 
-Rails basic API for E-Commerce.echo "# rails-api-ecommerce" >> README.md
+Rails basic API for E-Commerce.
 
 DEPENDENCIES:
 
