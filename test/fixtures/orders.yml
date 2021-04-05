@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  number: MyString
+  state: 1
+  customer_id: 1
+  total_price: 9.99
+  cart_id: 1
+  address: '{"id": 1, "customer_id": 1, "first_name": "MyString", "last_name": "MyString", "phone": "MyString", "title": "MyString", "description": "MyString", "city_name": "MyString", "town_name": "MyString"}'
+  products: '{"id": 1, "stock": 1, "name": "MyString", "price": 9.99}'
+
+two:
+  id: 2
+  number: MyString
+  state: 1
+  customer_id: 1
+  total_price: 9.99
+  cart_id: 2
+  address: '{"id": 1, "customer_id": 1, "first_name": "MyString", "last_name": "MyString", "phone": "MyString", "title": "MyString", "description": "MyString", "city_name": "MyString", "town_name": "MyString"}'
+  products: '{"id": 1, "stock": 1, "name": "MyString", "price": 9.99}'
